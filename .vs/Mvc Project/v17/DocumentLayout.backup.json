@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609A0DC0-873A-44E6-B895-465848B64E8E}|Demo.BLL\\Demo.BLL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609A0DC0-873A-44E6-B895-465848B64E8E}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|d:\\asp.net web\\workshop\\mvc\\mvc project\\demo.pl\\views\\employee\\partialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{437DEA48-66A2-46D7-A3DC-76A4488E16E7}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\partialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T11:23:25.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\PartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\PartialViews\\DeleteDetailsPartialView.cshtml",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\PartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\PartialViews\\DeleteDetailsPartialView.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:36:12.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:24:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:20:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:51:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:42:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET Web\\workshop\\MVC\\Mvc Project\\Demo.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:39:54.323Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

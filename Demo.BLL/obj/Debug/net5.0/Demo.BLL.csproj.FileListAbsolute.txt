@@ -1,0 +1,15 @@
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\ASP.NET Web\workshop\MVC\Mvc Project\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
